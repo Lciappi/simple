@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div className={styles.topnav}>
             <Link  href="/"> Home </Link>
-            <Link  href="/about"> Dashboard </Link>
+            <Link  href="/dashboard"> Dashboard </Link>
             <Link  href="/messages/sup"> FAQ </Link>
         </div>
 
